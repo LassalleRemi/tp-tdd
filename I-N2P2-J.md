@@ -8,7 +8,7 @@
 * DUQUESNE  ROMAIN  : https://github.com/Romain-Duq/TDD.git
 * GILMANT LUCAS : https://github.com/Jigasai/tp-tdd.git
 * GUERMONPREZ MAXIME  :
-* LASSALLE  RÉMI  :
+* LASSALLE  RÉMI  : https://github.com/LassalleRemi/RomanNumerals.git
 * LEGAY NICOLAS : https://github.com/nlegay/RomanNumerals.git
 * LELONG  BENJAMIN  :
 * MAINGUET  THEO  : https://github.com/theo-mainguet/tp-tdd.git
